@@ -21,8 +21,8 @@ jobs:
 
       - name: Set game configuration
         env:
-          APP_NAME: My Twine game
-          DESCRIPTION: My Twine game description
+          APP_NAME: HIST3812 Tutorial Level
+          DESCRIPTION: A gentle guide to getting started in the course
 
           # This must be of the format "N.N.N", where the N's are all numbers
           VERSION: 1.0.0
